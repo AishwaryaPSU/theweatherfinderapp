@@ -1,0 +1,22 @@
+Making an API call to a URL
+---------------------------
+https://home.openweathermap.org/
+
+Api key:
+02c5c22433cf83861b32bfd4046df3c0
+
+
+props are html attributes
+
+state is an object that lives within a component
+responsible for keeping track of chaning data within a component
+it is the interaction within the application that causes the app data to change
+
+how to initialize a state :
+state = {
+
+}
+
+state is an object and this object contains key-value pairs
+
+
